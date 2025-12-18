@@ -462,3 +462,35 @@ Como executar
     dotnet run no projeto.
 
 
+
+Tipo de IA utilizada
+
+    IA generativa baseada em modelos de linguagem (LLM – Large Language Model):  
+    Esse tipo de inteligência artificial é treinado em grandes volumes de texto e código, aprendendo padrões de linguagem, lógica e sintaxe.
+
+    Capacidade principal: gerar conteúdo textual coerente, como explicações passo a passo, exemplos de código, documentação e comparações entre linguagens.
+
+    Aplicação no projeto:
+
+        Em Python, a IA estruturou uma lista de produtos e funções de manipulação.
+
+        Em Java, elaborou um jogo de adivinhação com lógica de repetição e tratamento de erros.
+
+        Em .NET (C#), construiu uma calculadora com parsing de strings e operações matemáticas.
+
+        Também descreveu as diferenças de sintaxe entre as linguagens, algo que exige conhecimento contextual e comparativo.
+
+Características dessa IA
+
+    Multilinguagem: consegue gerar código em diferentes linguagens de programação.
+
+    Explicativa: além de escrever o código, fornece explicações detalhadas e passo a passo.
+
+    Adaptativa: ajusta o estilo da resposta conforme o pedido (Markdown, texto contínuo, etc.).
+
+    Não determinística: cada execução pode gerar pequenas variações, mas sempre mantendo a lógica correta.
+
+Em resumo
+
+O tipo de IA usada aqui é uma IA generativa de linguagem natural voltada para programação e explicação técnica, capaz de sintetizar conhecimento e produzir código funcional em múltiplas linguagens, além de documentar e comparar conceitos.
+
